@@ -51,6 +51,14 @@ The analysis of the election county data shows that:
 - Arapahoe had 6.7% of the vote and 24,801 number of votes.
 - Denver was the county witht the highest turnout.
 
+The analysis for the county data was performed by utiizing "for loops" and "if statements". Below is how the code was organized:
+
+
+![Code for County Analyis](https://github.com/ClayMack/Election_Analysis/blob/main/Resources/VS%20Code%20screenshot.png)
+
+
+
+
 Deliverable 1:
 
 
