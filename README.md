@@ -52,9 +52,13 @@ The analysis of the election county data shows that:
 - Denver was the county witht the highest turnout.
 
 Deliverable 1:
+
+
 ![Deliverable 1 Screenshot](https://github.com/ClayMack/Election_Analysis/blob/main/Resources/Challenge%20Deliverable%201.png)
 
 Deliverable 2:
+
+
 ![Deliverable 2 Screenshot](https://github.com/ClayMack/Election_Analysis/blob/main/Resources/Challenge%20Deliverable%202.png)
 
 
