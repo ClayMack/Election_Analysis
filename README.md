@@ -33,7 +33,7 @@ The analysis of the election show that:
 
 ## Challenge Overview
 The challege assignment was to add an analysis of the data on the 
-level. The county results needed to include:
+county level. The county results needed to include:
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
@@ -70,5 +70,14 @@ Deliverable 2:
 ![Deliverable 2 Screenshot](https://github.com/ClayMack/Election_Analysis/blob/main/Resources/Challenge%20Deliverable%202.png)
 
 
+## Comments: 
 
+This specific analysis was only for the three unique counties and candidates 
+that were provided. This script can be used for any election race over multiple 
+counties.  For example, if you wanted to do the entire state of Colorado, all 
+that would be required is upating the spreadsheet in the resources folder with 
+all county and candidate data. This would only work for elections that have
+candidates running in the same race, e.g. Governer, Senate, State Rep. race. 
+The county data analysis did not measure county turnout as a percent of registered voters. 
+It was a measure of the number of votes by county compared to all votes in the analysis 
 
